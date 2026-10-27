@@ -1,7 +1,3 @@
-# Task_Tracker
-Menu-based Python Task Tracker that stores tasks in a JSON file and can reload the saved tasks when run again.
-
-
 # Mini Task Tracker
 
 A menu-based Python task tracker that stores tasks in `tasks.json`. Tasks are
@@ -31,4 +27,3 @@ python mini_task_tracker.py
 
 The program creates `tasks.json` in the current working directory the first
 time a task is saved. On later runs, it loads the saved tasks automatically.
-
